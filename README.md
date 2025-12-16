@@ -22,19 +22,14 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamnavdiya&show_icons=true&locale=en&theme=tokyonight" alt="satyamnavdiya" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamnavdiya&theme=tokyonight" alt="satyamnavdiya" />
-</p>
 
 ---
 
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="mailto:satyamnavdiya@gmail.com">
+  <a href="mailto:buntybind31@gmail.com">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
   </a>
 </p>
